@@ -6,6 +6,7 @@ public class Inha {
 		// TODO Auto-generated method stub
 		//Please
 		System.out.println("inha");
+		System.out.println("iioii");
 
 	}
 
